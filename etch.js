@@ -179,7 +179,7 @@ function setRandomChoices(initialCall) {
 
 function loadForm() {
     setRandomChoices(true);
-    drawGrid(2);
+    drawGrid(16);
 }
 
 let initialColor = '';
